@@ -24,9 +24,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### The challenge
 
-Users should be able to:
-
+Mobile Design:
 ![mobile-design](https://user-images.githubusercontent.com/90885563/150005099-0d7bfa58-73f0-44b3-bf27-797f5496412c.jpg)
+Desktop Design:
 ![desktop-design](https://user-images.githubusercontent.com/90885563/150005119-16a31413-9d1e-4af9-9edb-46535619d8b4.jpg)
 
 
